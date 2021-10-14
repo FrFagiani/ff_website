@@ -22,4 +22,4 @@ In futuro mi piacerebbe avere la possibilità di lavorare in fase di progettazio
 
 # CV
 Per controllare tutte le esperienze di lavoro, studio e tirocinio leggi e scarica il mio CV dalla finestra che segue.
-<embed src="{{ site.url }}{{ site.baseurl }}/assets/pdf/Francesco_Fagiani-CV_01_2021_ita.pdf" type="application/pdf" />
+<embed src="{{ site.url }}"/"{{ site.baseurl }}/assets/pdf/Francesco_Fagiani-CV_01_2021_ita.pdf" type="application/pdf" />
