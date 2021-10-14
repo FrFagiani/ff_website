@@ -26,11 +26,11 @@ All'interno del progetto [Safari Njema](https://www.safari-njema.polimi.it/), pe
 </p>
 *Analisi delle matrici OD derivate da dati telefonici*
 <p align="center" float="center">
-<img src="{{ site.url }}/{{ site.baseurl }}/assets/images/SAFARI_OD_matrices_compose.png" alt="" width=300>
+<img src="{{ site.url }}/{{ site.baseurl }}/assets/images/SAFARI_OD_matrices_compose.PNG" alt="" width=300>
 </p>
-<p align="center" float="center">
+<!-- <p align="center" float="center">
 <img src="{{ site.url }}/{{ site.baseurl }}/assets/images/SAFARI_OD_matrices_pattern.png" alt="" width=300>
-</p>
+</p> -->
 *Isocrone, trasporto pubblico, grado di accessibilità delle aree*
 <p align="center" float="center">
 <img src="{{ site.url }}/{{ site.baseurl }}/assets/images/SAFARI_Accessibility_CBD.png" alt="">
