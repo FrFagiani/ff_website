@@ -1,0 +1,55 @@
+---
+layout: single
+permalink: /portfolio/
+# author_profile: true
+---
+
+In questa sezione vengono riportati molto brevemente alcuni dei lavori e delle analisi realizzate negli ultimi anni. Per approfondimenti si prega di utilizzare i link nel teso o inviare una mail.
+{: .text-justify}
+
+{: .notice--success}
+**Contattami!** Per qualsiasi informazione non esitare a contattarmi, scrivi una mail all'indirizzo [fr.fagiani@gmail.com](mailto:fr.fagiani@gmail.com)
+
+# Data Literacy
+Data Literacy. Un’indagine sull’utilizzo dei Big Data nei Comuni Italiani. La tesi magistrale prende ispirazione da una indagine di [PoliVisu](https://policyvisuals.eu/) sviluppata nel 2018, all'interno di una più ampia ricerca relativa all'uso dei dati e all'innovazione tecnologica nelle città europee.
+
+<p align="center" float="center">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Data_Lit_Italy_mun.png" alt="" width=300 >
+</p>
+
+# SAFARI
+All'interno del progetto [Safari Njema](https://www.safari-njema.polimi.it/), per il caso studio di Maputo (MOZ), sono state utilizzate tecniche di elaborazione e di analisi dati, per lo studio della domanda e dell'offerta di mobilità pubblica e paratransit. Inoltre è stato svolto uno studio sull'accessibilità rispetto ad alcuni sistemi critici replicabile in altri paesi dell'Africa subsahariana.
+
+*Analisi dei pattern morfologici*
+<p align="center" float="center">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/SAFARI_Pattern_analysis.png" alt="">
+</p>
+*Analisi delle matrici OD derivate da dati telefonici*
+<p align="center" float="center">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/SAFARI_OD_matrices_compose.png" alt="" width=300>
+</p>
+<p align="center" float="center">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/SAFARI_OD_matrices_pattern.png" alt="" width=300>
+</p>
+*Isocrone, trasporto pubblico, grado di accessibilità delle aree*
+<p align="center" float="center">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/SAFARI_Accessibility_CBD.png" alt="">
+</p>
+*Analisi dell'accessibilità al sistema sanitario*
+<p align="center" float="center">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/SAFARI_Health_accessibility.jpeg" alt="" width=300>
+</p>
+
+# TAV Corridors
+Confronto sui principali corridoi europei dell’alta velocità. Questa analisi è stata inserita all’interno del progetto ESPON [IMAGINE](https://www.espon.eu/imagine), che osserva il territorio della via Emilia, compreso tra Milano e Bologna.
+<p align="center" float="center">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/IMAGINE_corridors.jpg" alt="" width=300>
+</p>
+
+# TIM Data Milano
+
+Creare un grafico dinamico per rappresentare le presenze su Milano.
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="{{ site.url }}{{ site.baseurl }}/assets/maps_charts/TIM_MI_classe_viag.html" height="500" width="150%"></iframe>
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="{{ site.url }}{{ site.baseurl }}/assets/maps_charts/TIM_MI_day_night.html" height="500" width="150%"></iframe>
