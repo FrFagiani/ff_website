@@ -4,11 +4,11 @@ permalink: /portfolio/
 # author_profile: true
 ---
 
-In questa sezione vengono riportati molto brevemente alcuni dei lavori e delle analisi realizzate negli ultimi anni. Per approfondimenti si prega di utilizzare i link nel teso o inviare una mail.
+In questa sezione vengono descritti molto brevemente alcuni lavori e risultati d'analisi realizzate negli ultimi anni. Per approfondimenti si prega di utilizzare i link nel testo o contattarmi via mail.
 {: .text-justify}
 
-{: .notice--success}
-**Contattami!** Per qualsiasi informazione non esitare a contattarmi, scrivi una mail all'indirizzo [fr.fagiani@gmail.com](mailto:fr.fagiani@gmail.com)
+<!-- {: .notice--success}
+**Contattami!** Per qualsiasi informazione non esitare a contattarmi, scrivi una mail all'indirizzo [fr.fagiani@gmail.com](mailto:fr.fagiani@gmail.com) -->
 
 # Data Literacy
 Data Literacy. Un’indagine sull’utilizzo dei Big Data nei Comuni Italiani. La tesi magistrale prende ispirazione da una indagine di [PoliVisu](https://policyvisuals.eu/) sviluppata nel 2018, all'interno di una più ampia ricerca relativa all'uso dei dati e all'innovazione tecnologica nelle città europee.
@@ -48,7 +48,7 @@ Confronto sui principali corridoi europei dell’alta velocità. Questa analisi 
 
 # TIM Data Milano
 
-Analisi dei dati TIM di presenza, provenienza e destinazione del comune di Milano. Oltre 8 milioni di record processati in Python su un periodo di oltre 12 mesi. I risultati saranno presto pubblicati, il grafico e la mappa che seguono, mostrano due tipologie di rappresentazione dinamica, che permette l'esplorazione dei dati da parte degli utenti.
+Analisi dei dati TIM di presenza, provenienza e destinazione del comune di Milano. Oltre 8 milioni di record processati in Python su un periodo di oltre 12 mesi. Ipotesi di ricerca e applicazione esplorati nel corso del seminario sulle [fragilità territoriali](https://www.eccellenza.dastu.polimi.it/2021/03/25/dati-telefonici-per-lo-studio-delle-fragilita-territoriali-31-03-2021/). Altri risultati saranno presto pubblicati, il grafico e la mappa che seguono, mostrano due tipologie di rappresentazione dinamica, che permette l'esplorazione dei dati da parte degli utenti.
 
 Il grafico mostra l'andamento orario delle presenze di Milano per classi di viaggiatori, nel periodo marzo-maggio 2020.
 
