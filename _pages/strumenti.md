@@ -2,7 +2,7 @@
 layout: single
 permalink: /strumenti/
 header:
-  image: #/assets/images/Sorisole_Curves_cut.png
+  image: /assets/images/Sorisole_Curves_cut.png
 # author_profile: true
 ---
 
