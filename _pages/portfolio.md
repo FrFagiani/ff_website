@@ -11,7 +11,7 @@ In questa sezione vengono descritti molto brevemente alcuni lavori e risultati d
 **Contattami!** Per qualsiasi informazione non esitare a contattarmi, scrivi una mail all'indirizzo [fr.fagiani@gmail.com](mailto:fr.fagiani@gmail.com) -->
 
 # Data Literacy
-Data Literacy. Un’indagine sull’utilizzo dei Big Data nei Comuni Italiani. La tesi magistrale prende ispirazione da una indagine di [PoliVisu](https://policyvisuals.eu/) sviluppata nel 2018, all'interno di una più ampia ricerca relativa all'uso dei dati e all'innovazione tecnologica nelle città europee.
+Data Literacy: un’indagine sull’utilizzo dei Big Data nei Comuni Italiani. La tesi magistrale prende ispirazione da una indagine di [PoliVisu](https://policyvisuals.eu/) sviluppata nel 2018, all'interno di una più ampia ricerca relativa all'uso dei dati e all'innovazione tecnologica nelle città europee.
 
 <p align="center" float="center">
 <img src="{{ site.url }}/{{ site.baseurl }}/assets/images/Data_Lit_Italy_mun.png" alt="" width=300 >

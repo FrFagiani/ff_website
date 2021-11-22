@@ -6,10 +6,10 @@ header:
 # author_profile: true
 ---
 
-Con gli anni mi sono specializzato nella gestione dei dati geografici. Le principali elaborazioni e analisi vengono realizzate utilizzando applicativi GIS, in particolare ArcGIS e Qgis, con l’eventuale integrazione di script Python.  
-La visualizzazione cartografica può essere statica, pubblicazione delle mappe come immagini o in formati vettoriali non interrogabili, oppure dinamica, attraverso l’esplorazione diretta del progetto Qgis e ArcGIS o con la pubblicazione tramite strumenti webGIS dedicati.
+Con gli anni mi sono specializzato nella gestione di dati geografici. Le principali elaborazioni e analisi vengono realizzate utilizzando applicativi GIS, in particolare ArcGIS e Qgis, con l’eventuale integrazione di script Python.  
+La visualizzazione cartografica può essere statica, pubblicazione delle mappe come immagini o in formati vettoriali non interrogabili, oppure dinamica, attraverso l’esplorazione diretta di progetti Qgis e ArcGIS o con la pubblicazione tramite strumenti webGIS dedicati.
 {: .text-justify}
-Accanto ai dati geografici, altrettanto fondamentale è la gestione dei dati “tradizionali”. Lo strumento principale in questo caso è Excel o fogli di calcolo. Infatti, la maggior parte dei dati è gestibile da questo software, inoltre è facilmente condivisibile anche ai non addetti ai lavori, garantendo la flessibilità necessaria in alcune fasi di progetto. Per particolari esigenze viene utilizzato VBA, integrando il file con la scrittura di macro e la creazione di specifici tool.
+Accanto ai dati geografici, altrettanto fondamentale è la gestione dei dati “tradizionali”. Lo strumento principale in questo caso è Excel o fogli di calcolo. Infatti, la maggior parte dei dati è gestibile da questo software, inoltre è facilmente condivisibile anche ai non addetti ai lavori, garantendo la flessibilità necessaria in alcune fasi di progetto. Per particolari esigenze viene utilizzato VBA, integrando il file con la scrittura di codice per la creazione di specifici tool.
 {: .text-justify}
 Per analisi più complesse o volumi di dati più consistenti, l’analisi viene sviluppata in Python. Anche in questo caso la visualizzazione e condivisione dei risultati viene garantita dalla creazione di report statici o dinamici.
 {: .text-justify}
