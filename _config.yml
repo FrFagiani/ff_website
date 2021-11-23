@@ -20,7 +20,7 @@ title                    : "FRANCESCO FAGIANI"
 title_separator          : "|"
 subtitle                 : #"Geo consulenze" # site tagline that appears below site title in masthead
 name                     : "Francesco Fagiani"
-description              : "Francesco Fagiani è un pianificatore territoriale di Bergamo. Leggi il suo CV e contattalo per avere consulenza" #"Consulenze GIS, cartografia e mappe, analisi e visualizzazione dati, servizi catastali avanzati, gestione banche dati, open data."
+description              : "Francesco Fagiani, Consulenze GIS, Geo Consulenze, Urbanistica, Cartografia, Mappe, Analisi Dati, Portfolio" #"Consulenze GIS, cartografia e mappe, analisi e visualizzazione dati, servizi catastali avanzati, gestione banche dati, open data."
 url                      : #"https://FrFagiani.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "ff_website" # the subpath of your site, e.g. "/blog"
 repository               : #"FrFagiani/blugis" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
