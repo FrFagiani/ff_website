@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://frfagiani.github.io/ff_website/contatti/</loc>
+<loc>/contatti/</loc>
 </url>
 <url>
-<loc>https://frfagiani.github.io/ff_website/</loc>
+<loc>/ff_website/</loc>
 </url>
 <url>
-<loc>https://frfagiani.github.io/ff_website/portfolio/</loc>
+<loc>/portfolio/</loc>
 </url>
 <url>
-<loc>https://frfagiani.github.io/ff_website/strumenti/</loc>
+<loc>/strumenti/</loc>
 </url>
 <url>
-<loc>https://frfagiani.github.io/ff_website/assets/maps_charts/TIM_MI_classe_viag.html</loc>
+<loc>/assets/maps_charts/TIM_MI_classe_viag.html</loc>
 <lastmod>2021-10-13T11:31:54+02:00</lastmod>
 </url>
 <url>
-<loc>https://frfagiani.github.io/ff_website/assets/maps_charts/TIM_MI_day_night.html</loc>
+<loc>/assets/maps_charts/TIM_MI_day_night.html</loc>
 <lastmod>2021-10-13T11:46:10+02:00</lastmod>
 </url>
 <url>
-<loc>https://frfagiani.github.io/ff_website/assets/pdf/Francesco_Fagiani-CV_01_2021_ita.pdf</loc>
+<loc>/assets/pdf/Francesco_Fagiani-CV_01_2021_ita.pdf</loc>
 <lastmod>2021-10-11T10:44:41+02:00</lastmod>
 </url>
 </urlset>
