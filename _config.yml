@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" #"default" # "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "it_IT"
-title                    : "FRANCESCO FAGIANI"
+title                    : "Geo Consulenze Francesco Fagiani" #"FRANCESCO FAGIANI"
 title_separator          : "|"
 subtitle                 : #"Geo consulenze" # site tagline that appears below site title in masthead
 name                     : "Francesco Fagiani"
